@@ -1,4 +1,4 @@
-from animal import animal
+from animais.animal import animal
 
 class Ave(animal):
     def __init__(self, tipo, peso, locomocao, idade):

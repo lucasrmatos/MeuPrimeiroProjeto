@@ -1,5 +1,4 @@
-from animal import animal
-
+from animais.animal import animal
 
 class mamifero(animal):
 
